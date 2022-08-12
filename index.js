@@ -150,4 +150,4 @@ Basin.Basin.prototype = {
 
 }
 
-module.exports.castreamflow = castreamflow;
+module.exports = castreamflow
